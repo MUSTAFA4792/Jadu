@@ -7,10 +7,10 @@ import certifi
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = 'BOT TOKEN'
+TOKEN = '7707270746:AAHi79Zc3Nl9iYLf-U0PBMa9FxCLFZrfcZo'
 MONGO_URI = 'mongodb+srv://sharp:sharp@sharpx.x82gx.mongodb.net/?retryWrites=true&w=majority&appName=SharpX'
 CHANNEL_ID = -100
-ADMIN_IDS = [YOU USER ID]
+ADMIN_IDS = 6103581760
 
 
 client = MongoClient(MONGO_URI, tlsCAFile=certifi.where())
