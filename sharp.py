@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 TOKEN = '7707270746:AAHi79Zc3Nl9iYLf-U0PBMa9FxCLFZrfcZo'
 MONGO_URI = 'mongodb+srv://sharp:sharp@sharpx.x82gx.mongodb.net/?retryWrites=true&w=majority&appName=SharpX'
-CHANNEL_ID = -100
+CHANNEL_ID = -1002306196867
 ADMIN_IDS = 6103581760
 
 
